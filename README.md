@@ -9,7 +9,7 @@ SMP using AI/ML/Data Science Approaches
 
 3. Do this for same dataset for 4 methodologies
 
-4. Details about the prediction function needs to be understood. 
+4. #### Details about the prediction function needs to be understood. 
 
 5. Do point 3, for time series data analysis and their nature, results need to be plotted in form of comparative analysis. 
 
