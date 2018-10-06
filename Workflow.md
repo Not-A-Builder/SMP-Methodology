@@ -9,6 +9,8 @@
 
 #### 2. Do analysis with minimum 4 separate methodologies for time series data analysis
 
+You can find adequate relevant data on the types of Time Series Analysis and Forecasting at the link: http://www.statgraphics.com/time-series-analysis-and-forecasting
+
     a. Analyse and document their nature
     
     b. Results need to be plotted in form of comparative analysis
