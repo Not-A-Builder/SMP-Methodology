@@ -21,3 +21,5 @@ b. Results need to be plotted in form of comparative analysis
 ##### Solution: https://github.com/Not-A-Builder/SMP-Methodology/blob/master/Long_term-Regression.ipynb
 
 ### 3. Document writings are to be planned in LateX platform.
+
+##### Solution: 
