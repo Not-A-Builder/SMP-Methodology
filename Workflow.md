@@ -15,10 +15,4 @@ a. Analyse and document their nature
     
 b. Results need to be plotted in form of comparative analysis
 
-#### 3. The quality of the risk function may depend upon the attributes given the time frame of the time series data. 
-
-a. Therefore it is very important to measure how that deviation takes place 
-    
-b. Give measurement analysis with proper reference
-
-#### 4. Document writings are to be planned in LateX platform.
+#### 3. Document writings are to be planned in LateX platform.
