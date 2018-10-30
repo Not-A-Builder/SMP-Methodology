@@ -22,4 +22,6 @@ b. Results need to be plotted in form of comparative analysis
 
 ### 3. Document writings are to be planned in LateX platform.
 
+Work to be done on: https://github.com/Not-A-Builder/LateX-Guides-and-Templates/blob/master/A%20LateX%20Guide/Template%20Paper/article.tex
+
 ##### Solution: 
