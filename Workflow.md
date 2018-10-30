@@ -4,9 +4,7 @@
 
 a. Analysis of the prediction function (.predict) for time-series data
     
-b. Check fbprophet src code for syntax ('alpha', how the prediction is done etc)
-    
-The use of np.exp() is for the purpose of depicting a growth/decay in the curve. For more details please follow this link: https://mathinsight.org/exponential_function
+b. The use of np.exp() is for the purpose of depicting a growth/decay in the curve. For more details please follow this link: https://mathinsight.org/exponential_function
 
 ##### Solution: https://github.com/Not-A-Builder/SMP-Methodology/tree/master/fbprophet%20source%20code
 
