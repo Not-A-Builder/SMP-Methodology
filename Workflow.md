@@ -1,6 +1,6 @@
 ## 10-05-18
 
-#### 1. Details about the prediction function needs to be understood
+### 1. Details about the prediction function needs to be understood
 
 a. Analysis of the prediction function (.predict) for time-series data
     
