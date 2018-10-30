@@ -18,4 +18,4 @@ a. Analyse and document their nature
     
 b. Results need to be plotted in form of comparative analysis
 
-#### 3. Document writings are to be planned in LateX platform.
+### 3. Document writings are to be planned in LateX platform.
