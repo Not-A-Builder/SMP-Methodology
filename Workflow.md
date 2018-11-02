@@ -45,3 +45,5 @@ Why we are using Regression models for this problem.
 ### 5: Purpose of long-term/short-term SMP.
 
 Documentation - mostly theory.
+
+## 02-11-18
