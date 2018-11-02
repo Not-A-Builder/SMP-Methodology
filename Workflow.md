@@ -24,7 +24,7 @@ Work to be done on: https://github.com/Not-A-Builder/LateX-Guides-and-Templates/
 
 ##### Solution: https://github.com/Not-A-Builder/LateX-Guides-and-Templates
 
-## 31-10-18
+# 31-10-18
 
 ### 1. Pseucocodic form of the algorithms.
 
