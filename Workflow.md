@@ -48,6 +48,8 @@ Documentation - mostly theory.
 
 ## 02-11-18
 
-### 1. Carry out all the solutions from 31-10-18
+### 1. Carry out all the solutions from 31-10-18.
 
-Finish the above 5 procedures to complete.
+Finish the above 5 procedures to completion.
+
+### 2. Help Amit with his topic of research.
