@@ -35,25 +35,5 @@ Work to be done on: https://github.com/Not-A-Builder/LateX-Guides-and-Templates/
 
 ##### Solution: https://github.com/Not-A-Builder/LateX-Guides-and-Templates
 
-# 31-10-18
 
-### 1. Pseucocodic form of the algorithms.
-
-Code not required, but pseucodic algorithmic understanding and documentation is important.
-
-### 2. Existing mathematical literature for each model.
-
-Find and document each of the used models.
-
-### 3: Diagrams of each model.
-
-Plot diagrams and plots for each of the used models.
-
-### 4: Purpose of the models.
-
-Why we are using Regression models for this problem.
-
-### 5: Purpose of long-term/short-term SMP.
-
-Documentation - mostly theory.
 
