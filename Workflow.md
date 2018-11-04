@@ -1,3 +1,14 @@
+# 02-11-18
+
+### 1. Carry out all the solutions from 31-10-18.
+
+Finish the above 5 procedures to completion on or before 10-11-18.
+
+### 2. Help Amit with his topic of research.
+
+The different affecting factors of stock market prices.  
+The risk associated with each of these factors wrt some stock market price.  
+
 # 10-05-18
 
 ### 1. Details about the prediction function needs to be understood
