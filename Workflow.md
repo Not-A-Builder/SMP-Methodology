@@ -9,6 +9,28 @@ Finish the above 5 procedures to completion on or before 10-11-18.
 The different affecting factors of stock market prices.  
 The risk associated with each of these factors wrt some stock market price.  
 
+# 31-10-18
+
+### 1. Pseucocodic form of the algorithms.
+
+Code not required, but pseucodic algorithmic understanding and documentation is important.
+
+### 2. Existing mathematical literature for each model.
+
+Find and document each of the used models.
+
+### 3: Diagrams of each model.
+
+Plot diagrams and plots for each of the used models.
+
+### 4: Purpose of the models.
+
+Why we are using Regression models for this problem.
+
+### 5: Purpose of long-term/short-term SMP.
+
+Documentation - mostly theory.
+
 # 10-05-18
 
 ### 1. Details about the prediction function needs to be understood
