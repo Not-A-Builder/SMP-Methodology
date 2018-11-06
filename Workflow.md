@@ -2,7 +2,7 @@
 
 ### 1. Carry out all the solutions from 31-10-18.
 
-Finish the 5 procedures from 31-10-18 to completion on or before 10-11-18.
+Finish the 5 procedures from 31-10-18 to completion on or before 10-11-18.  
 
 ### 2. Help Amit with his topic of research.
 
@@ -30,6 +30,8 @@ Why we are using Regression models for this problem.
 ### 5: Purpose of long-term/short-term SMP.
 
 Documentation - mostly theory.
+
+### 6: Start LateX documentation.
 
 # 10-05-18
 
