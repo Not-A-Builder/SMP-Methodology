@@ -17,7 +17,8 @@ Code not required, but pseucodic algorithmic understanding and documentation is 
 
 For long-term SMP, linear_model from scikit-learn has been used:  
 linear regression: http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html#sklearn.linear_model.LinearRegression  
-ridge regression: 
+ridge regression: http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Ridge.html#sklearn.linear_model.Ridge  
+bayesian ridge regression: 
 
 ### 2. Existing mathematical literature for each model.
 
