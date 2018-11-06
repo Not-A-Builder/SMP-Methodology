@@ -21,6 +21,9 @@ ridge regression: http://scikit-learn.org/stable/modules/generated/sklearn.linea
 bayesian ridge regression: http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.BayesianRidge.html#sklearn.linear_model.BayesianRidge  
 lasso regression: http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Lasso.html#sklearn.linear_model.Lasso  
 
+Where fbProphet has been used: https://github.com/Not-A-Builder/SMP-Methodology/tree/master/fbprophet%20source%20code  
+and the original code is present at: https://github.com/Not-A-Builder/prophet/blob/master/python/fbprophet/forecaster.py  
+
 ### 2. Existing mathematical literature for each model.
 
 Find and document each of the used models.
