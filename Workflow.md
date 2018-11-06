@@ -13,7 +13,13 @@ The risk associated with each of these factors wrt some stock market price.
 
 ### 1. Pseucocodic form of the algorithms.
 
+### 2. Existing mathematical literature for each model.
+
+Find and document each of the used models.
+
 Code not required, but pseucodic algorithmic understanding and documentation is important.  
+
+------------------------------------------------------------------------------------------------------------------------------
 
 For long-term SMP, linear_model from scikit-learn has been used:  
 linear regression: http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html#sklearn.linear_model.LinearRegression  
@@ -24,9 +30,14 @@ lasso regression: http://scikit-learn.org/stable/modules/generated/sklearn.linea
 Where fbProphet has been used: https://github.com/Not-A-Builder/SMP-Methodology/tree/master/fbprophet%20source%20code  
 and the original code is present at: https://github.com/Not-A-Builder/prophet/blob/master/python/fbprophet/forecaster.py  
 
-### 2. Existing mathematical literature for each model.
+For short-term SMP, the following models have been used:
+linear regression: http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html#sklearn.linear_model.LinearRegression  
+svm: kernels (rbf, linar, polynommial) http://scikit-learn.org/stable/modules/svm.html#kernel-functions  
+and svr: http://scikit-learn.org/stable/modules/svm.html#svr  
+rnn: https://keras.io/layers/recurrent/#rnn  
+mathematical models and diagrams: http://adventuresinmachinelearning.com/keras-lstm-tutorial/  
 
-Find and document each of the used models.
+------------------------------------------------------------------------------------------------------------------------------
 
 ### 3: Diagrams of each model.
 
