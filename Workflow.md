@@ -13,7 +13,10 @@ The risk associated with each of these factors wrt some stock market price.
 
 ### 1. Pseucocodic form of the algorithms.
 
-Code not required, but pseucodic algorithmic understanding and documentation is important.
+Code not required, but pseucodic algorithmic understanding and documentation is important.  
+
+For long-term SMP, linear_model from scikit-learn has been used:  
+linear regression:
 
 ### 2. Existing mathematical literature for each model.
 
