@@ -16,7 +16,8 @@ The risk associated with each of these factors wrt some stock market price.
 Code not required, but pseucodic algorithmic understanding and documentation is important.  
 
 For long-term SMP, linear_model from scikit-learn has been used:  
-linear regression:
+linear regression: http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html#sklearn.linear_model.LinearRegression  
+ridge regression: 
 
 ### 2. Existing mathematical literature for each model.
 
