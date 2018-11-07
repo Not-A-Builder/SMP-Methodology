@@ -4,7 +4,7 @@
 
 Finish the 6 procedures from 31-10-18 to completion on or before 10-11-18.  
 
-### 2. Help Amit with his topic of research.
+### 2. Help Amit with his research.
 
 The different affecting factors of stock market prices.  
 The risk associated with each of these factors wrt some stock market price.  
