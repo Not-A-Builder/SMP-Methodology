@@ -2,7 +2,7 @@
 
 ### 1. Carry out all the solutions from 31-10-18.
 
-Finish the 6 procedures from 31-10-18 to completion on or before 10-11-18.  
+Finish the 6 procedures from 31-10-18 to completion on/before 10-11-18.  
 
 ### 2. Help Amit with his topic of research.
 
