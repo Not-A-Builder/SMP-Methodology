@@ -43,6 +43,14 @@ mathematical models and diagrams: http://adventuresinmachinelearning.com/keras-l
 
 Plot diagrams and plots for each of the used models.
 
+Regression:
+Ridge Regression:
+Bayesian Ridge Rgeression:
+Lasso Regression:
+
+SVR:
+RNN:
+
 ### 4: Purpose of the models.
 
 Why we are using Regression models for this problem.
