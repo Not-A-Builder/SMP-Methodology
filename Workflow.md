@@ -48,8 +48,8 @@ Ridge Regression: https://www.google.co.in/search?newwindow=1&biw=1680&bih=948&t
 Bayesian Ridge Rgeression: https://www.google.co.in/search?newwindow=1&biw=1680&bih=948&tbs=ift%3Apng&tbm=isch&sa=1&ei=atzjW4nRA4XLvgSxqbK4Aw&q=bayesian+ridge+regression&oq=bayesian+ridge+regression&gs_l=img.3..0i24k1l3.52184.53530.0.54520.9.9.0.0.0.0.157.957.0j7.7.0....0...1c.1.64.img..2.2.272...0i30k1.0.YF7ncWFfOyY#imgrc=tOOn78QGLbz7tM:  
 Lasso Regression: https://www.google.co.in/search?newwindow=1&biw=1680&bih=948&tbs=ift%3Apng&tbm=isch&sa=1&ei=atzjW4nRA4XLvgSxqbK4Aw&q=bayesian+ridge+regression&oq=bayesian+ridge+regression&gs_l=img.3..0i24k1l3.52184.53530.0.54520.9.9.0.0.0.0.157.957.0j7.7.0....0...1c.1.64.img..2.2.272...0i30k1.0.YF7ncWFfOyY#imgrc=sVZE7U2uZqTfsM:  
 
-SVR:
-RNN:
+RNN: https://www.google.co.in/search?newwindow=1&biw=1680&bih=948&tbs=ift%3Apng&tbm=isch&sa=1&ei=Dd3jW5bcOsyMvQScxLRg&q=RNN+working&oq=RNN+working&gs_l=img.3..0i24k1.50664.54969.0.55181.19.14.1.3.3.0.218.1678.0j10j1.11.0....0...1c.1.64.img..4.14.1550...0j35i39k1j0i8i30k1j0i67k1j0i30k1.0.HecC81xFAbk#imgrc=T8xvOwKI6erKlM:  
+SVM: https://en.wikipedia.org/wiki/Support_vector_machine#/media/File:SVM_margin.png  
 
 ### 4: Purpose of the models.
 
