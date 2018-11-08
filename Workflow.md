@@ -65,6 +65,10 @@ Most commonly, regression analysis estimates the conditional expectation of the 
 
 In statistical terms, regression analysis modelling takes into account the entire collection of statistical methodologies that are employed to correctly estimate the correlation among multiple variables. The primary focus is on the the relationship between the depnedent variable in a particular problem, and, usually more than one, independent variables, which are also called the 'predictors', that is, the variables that will essentially help to predict the value or the effectiveness of the dependent variables. This analysis method called 'regression' will eventually help to understand the relationship between the 'criterion' variable, which is the dependent variable and the predictors. This will consequently help to understand how changing any one, or more, independent variable value, keeping the other values fixed, will affect the final predicted value of the dependent variable.  
 
+So what a regression analysis does, is make an estimate with respect to the conditional expectations of the dependent variable, given the value(s) of the independent variables or the predictors. In mathematical terms, the regression analysis 
+actually calculates the mean, or the average value of the dependent variable keeping the independent variable(s) fixed. The primary focus is on a given quantile, or any partciular location parameter, for that matter, of the conditional distribution of the dependent variable, with repsect to the one, or more, independent variables. In most cases however, the function is what is needed to be estimated, called the regression function - the function of the independent variables. 
+
+A common problem is the 
 
 
 
