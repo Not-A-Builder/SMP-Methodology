@@ -78,7 +78,27 @@ For stock-market predictions, it is important to note, that a very similar case 
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-Stock market predictions are essentially what is the ruling factor of all the dynamics of every society. Stock market prices actually influence the social. political and, needless to say, economic dynamics of the world we live in. Hence predicting stock market values will essentially predict the future. But then, we cannot make predictions with accuracy that is actually useful. Suppose for instance, we get predictions of accuracy 0.8 and 0.9 respectively. Then what we actually take into account are the mis-predictions of values 0.2 and 0.1 respectively. Hence, since we cannot increase the accuracy, what we can actually do with various regression analysis techniques, is minimise the risk associated with these predictions. So the ultimate aim for stock market predictions is to minimise the risk and consequently inccrease the accuracy of the predictions.
+Stock market predictions are essentially what is the ruling factor of all the dynamics of every society. Stock market prices actually influence the social. political and, needless to say, economic dynamics of the world we live in. Hence predicting stock market values will essentially predict the future. But then, we cannot make predictions with accuracy that is actually useful. Suppose for instance, we get predictions of accuracy 0.8 and 0.9 respectively. Then what we actually take into account are the mis-predictions of values 0.2 and 0.1 respectively. Hence, since we cannot increase the accuracy, what we can actually do with various regression analysis techniques, is minimise the risk associated with these predictions. So the ultimate aim for stock market predictions is to minimise the risk and consequently inccrease the accuracy of the predictions.  
+
+Why SMP is important?  
+https://www.benzinga.com/general/17/06/9602734/why-is-stock-chart-technical-analysis-important
+
+'''  
+When it comes to investing in stocks, it is important that the investor is capable of conducting a thorough technical analysis of stock charts. Technical analysis is a term used to define the process of forecasting future price movements based on the past price movements within stock charts. It is with the help of technical analysis that investors are able to make financial decisions of buying, holding, or selling stocks.  
+
+Although technical analysis doesn’t make accurate predictions, it helps investors anticipate the future. Let’s say if a person is willing to invest in a stock, they will first select a stock and analyze its past price fluctuations to see whether it will offer fruitful results in the future or not.  
+
+Past and Current Stock Price Prediction  
+
+The purpose of technical analysis is to help the investor make a more financially sound investment decision. The price is the key to success in stock market investment. The supply and demand of stocks all depend upon technical analysis. By evaluating the history of stock prices, you get a future reading of what a particular stock would be priced at.  
+
+When analyzing the stock charts, you can create price charts that help determine your next move. With the help of technical analysis, you are able to identify the following factors:  
+
+Instability in the stock prices in the past and present.  
+Stock’s ability and value compared to the overall market  
+Price fluctuations and stock value before and after important events.  
+History of volume and trading levels.  
+'''
 
 ------------------------------------------------------------------------------------------------------------------------------
 
