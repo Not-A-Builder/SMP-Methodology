@@ -55,6 +55,15 @@ SVM: https://en.wikipedia.org/wiki/Support_vector_machine#/media/File:SVM_margin
 
 Why we are using Regression models for this problem.
 
+Answer from https://en.wikipedia.org/wiki/Regression_analysis :  
+
+'''
+In statistical modeling, regression analysis is a set of statistical processes for estimating the relationships among variables. It includes many techniques for modeling and analyzing several variables, when the focus is on the relationship between a dependent variable and one or more independent variables (or 'predictors'). More specifically, regression analysis helps one understand how the typical value of the dependent variable (or 'criterion variable') changes when any one of the independent variables is varied, while the other independent variables are held fixed.
+
+Most commonly, regression analysis estimates the conditional expectation of the dependent variable given the independent variables – that is, the average value of the dependent variable when the independent variables are fixed. Less commonly, the focus is on a quantile, or other location parameter of the conditional distribution of the dependent variable given the independent variables. In all cases, a function of the independent variables called the regression function is to be estimated. 
+'''
+
+
 ### 5: Purpose of long-term/short-term SMP.
 
 Documentation - mostly theory.
