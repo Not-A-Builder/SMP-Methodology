@@ -98,6 +98,10 @@ Instability in the stock prices in the past and present.
 Stock’s ability and value compared to the overall market  
 Price fluctuations and stock value before and after important events.  
 History of volume and trading levels.  
+
+• Easily Identify Support and Resistance Levels  
+• Helps time entry points  
+• Easily spot trends  
 '''
 
 ------------------------------------------------------------------------------------------------------------------------------
