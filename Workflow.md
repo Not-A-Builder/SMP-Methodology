@@ -68,7 +68,7 @@ For stock-market predictions, it is important to note, that a very similar case 
 
 ### 5: Purpose of long-term/short-term SMP.
 
-Documentation - mostly theory.
+Stock market predictions are essentially what is the ruling factor of all the dynamics of every society. Stock market prices actually influence the social. political and, needless to say, economic dynamics of the world we live in. Hence predicting stock market values will essentially predict the future. But then, we cannot make predictions with accuracy that is actually useful. Suppose for instance, we get predictions of accuracy 0.8 and 0.9 respectively. Then what we actually take into account are the mis-predictions of values 0.2 and 0.1 respectively. Hence, since we cannot increase the accuracy, what we can actually do with various regression analysis techniques, is minimise the risk associated with these predictions. So the ultimate aim for stock market predictions is to minimise the risk and consequently inccrease the accuracy of the predictions.
 
 ### 6: Start LateX documentation.
 
