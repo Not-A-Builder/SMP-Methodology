@@ -57,7 +57,7 @@ Why we are using Regression models for this problem.
 
 Answer from https://en.wikipedia.org/wiki/Regression_analysis :  
 
-==============================================================================================================================
+------------------------------------------------------------------------------------------------------------------------------
 
 In statistical terms, regression analysis modelling takes into account the entire collection of statistical methodologies that are employed to correctly estimate the correlation among multiple variables. The primary focus is on the the relationship between the depnedent variable in a particular problem, and, usually more than one, independent variables, which are also called the 'predictors', that is, the variables that will essentially help to predict the value or the effectiveness of the dependent variables. This analysis method called 'regression' will eventually help to understand the relationship between the 'criterion' variable, which is the dependent variable and the predictors. This will consequently help to understand how changing any one, or more, independent variable value, keeping the other values fixed, will affect the final predicted value of the dependent variable.  
 
@@ -68,7 +68,7 @@ A common problem that is solved by the regression analysis is the House Price pr
 
 For stock-market predictions, it is important to note, that a very similar case arises that can be  dealt with using regression analysis. For instance, if we deal with SP500 data for a given amount of time, such that the dataset comprises of the dates and the corresponding price associated with the security for that particular date. This can be plotted in a 2-D curve to get the datapoints from all the historical data present in the dataset, and after using regression analysis, we will be getting a best-fit line which will help us to make future prediction(s), with respect to the price of the security, based on the pattern that is generated from the existing historical data, given a particular date. Hence we have made use of regression analysis techniques in order to properly understand predictions and how the stock market behaves. Regression analysis best fits this form of learning.
 
-==============================================================================================================================
+------------------------------------------------------------------------------------------------------------------------------
 
 ### 5: Purpose of long-term/short-term SMP.
 
