@@ -95,7 +95,7 @@ The purpose of technical analysis is to help the investor make a more financiall
 When analyzing the stock charts, you can create price charts that help determine your next move. With the help of technical analysis, you are able to identify the following factors:  
 
 a. Instability in the stock prices in the past and present.  
-Stock’s ability and value compared to the overall market  
+b. Stock’s ability and value compared to the overall market  
 Price fluctuations and stock value before and after important events.  
 History of volume and trading levels.  
 
