@@ -83,9 +83,9 @@ Stock market predictions are essentially what is the ruling factor of all the dy
 Why SMP is important?  
 https://www.benzinga.com/general/17/06/9602734/why-is-stock-chart-technical-analysis-important
 
-'''  
-When it comes to investing in stocks, it is important that the investor is capable of conducting a thorough technical analysis of stock charts. Technical analysis is a term used to define the process of forecasting future price movements based on the past price movements within stock charts. It is with the help of technical analysis that investors are able to make financial decisions of buying, holding, or selling stocks.  
+The main thing to keep in mind when it concerns the people who actually invest in stocks is that the investor should be thoroughly able to make a proper decision, rather a proper prediction, with respect to the existing/current stock charts of the particular security/securities that the investor may be interested in. As a matter of fact what is more important is to understand the actual reality - the risk the investor is taking with repsect to that particular prediction, and hence, minimising that risk is our goal. All that technical analysis of stock charts means is that we need to study the historical existing data and make sure that we find a legible and coprehnedable pattern and make predictions with respect to the same. This technical analysis is what will eventually help us, but more importantly, the invetors, to understand the trend of particular securities and/or whether it sshould be the right time for certian financial decisions including, but not limited to, buying or holding or selling stocks.
 
+'''  
 Although technical analysis doesn’t make accurate predictions, it helps investors anticipate the future. Let’s say if a person is willing to invest in a stock, they will first select a stock and analyze its past price fluctuations to see whether it will offer fruitful results in the future or not.  
 
 Past and Current Stock Price Prediction  
@@ -103,6 +103,8 @@ d. History of volume and trading levels.
 • Helps time entry points  
 • Easily spot trends  
 '''
+
+
 
 ------------------------------------------------------------------------------------------------------------------------------
 
