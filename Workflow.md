@@ -87,22 +87,18 @@ The main thing to keep in mind when it concerns the people who actually invest i
 
 It is important to note however that technical analysis does not always lead to correct or even desirablee results. However, it is not correct to discredit technical analysis; since it does help the investor to take informed decisions and make knowledgable predictions with respect to certain securities/stocks. For instance, if we take an example such that a person A is willing to invest in a given security at any one instant of time t, then A will study that stock/security in depth and create a trend pattern from its existing historical data. The analysis will be done with respect to its price fluctuations and trends in the past till time instant t, and then this will help us and the investors to understand whether the investing will lead to any fruitful results or not in the future.  
 
-In stock market predictions, financially sound investments are key, and this is precisely where technical analysis be varied methodologies come in to play. And, most importantly, since the field of economics takes into account all the demand and supply micro- and macro- fluctuuations, it is important to always keep technical analysis in the picture. Since, after all, just by using technical analysis on existing historical data we can get a pretty good idea not only about the future trends of a particular stock/security, but also an educated guess at the future price of the same.   
+In stock market predictions, financially sound investments are key, and this is precisely where technical analysis be varied methodologies come in to play. And, most importantly, since the field of economics takes into account all the demand and supply micro- and macro- fluctuuations, it is important to always keep technical analysis in the picture. Since, after all, just by using technical analysis on existing historical data we can get a pretty good idea not only about the future trends of a particular stock/security, but also an educated guess at the future price of the same.  
 
-'''  
-When analyzing the stock charts, you can create price charts that help determine your next move. With the help of technical analysis, you are able to identify the following factors:  
+Stock charts can actually help us in the creation and development of comprehendable price charts, and it is these price charts that will actually help in the technical analysis. This is going to enable us to take a decision about making our next move. Technical analysis, done properly, on the price charts that have been established from historical stock charts, will lead to very significant conclusions, with respect to vital factors including, but not limited to:
+a. Past and present instabilities in the stock prices.  
+b. The value of the stock and it's ability with respect to the current market scenario.  
+c. The effect of important events in real life, on the stock value and price fluctuations.  
+d. The historical trends and/or patterns in the trading levels and history of volumes.  
 
-a. Instability in the stock prices in the past and present.  
-b. Stock’s ability and value compared to the overall market  
-c. Price fluctuations and stock value before and after important events.  
-d. History of volume and trading levels.  
-
-• Easily Identify Support and Resistance Levels  
-• Helps time entry points  
-• Easily spot trends  
-'''
-
-
+All this analysis, documented and properly analysed technically will not only help us to take appropriate decisions but also help us make near-accurate predictions about the stock market trends and values in the future. The three most significant benefits of proper technical analysis on stock market data for stock market predictions, irrespective of whether it is long-term or short-term, are:
+1. It will help us to easily identify the support and resistance levels in that particular security.  
+2. It will help us to take informed decisions about good (or bad) entry points.
+3. Most significantly, it will help . us to easily spot trends and patterns in existing historical data and make informed and knowledgable predictions about the future with respect to the particular stock/security that is being technically analysed.  
 
 ------------------------------------------------------------------------------------------------------------------------------
 
