@@ -11,7 +11,7 @@ The risk associated with each of these factors wrt some stock market price.
 
 # 31-10-18
 
-### 1. Pseucocodic form of the algorithms.
+### :white_check_mark: 1. Pseucocodic form of the algorithms.
 
 ### 2. Existing mathematical literature for each model.
 
