@@ -1,0 +1,56 @@
+A. https://www.investopedia.com/exam-guide/series-65/portfolio-risks-returns/stock-risks.asp  
+
+What is Risk?: https://www.investor.gov/introduction-investing/basics/what-risk 
+
+B.https://economictimes.indiatimes.com/wealth/invest/dont-try-to-predict-the-stock-market-focus-on-these-three-factors-while-investing-instead/articleshow/64038318.cms 
+
+C. https://en.wikipedia.org/wiki/Stock_market_prediction 
+
+D. https://www.investopedia.com/articles/07/mean_reversion_martingale.asp 
+
+E.https://www.forbes.com/sites/mikepatton/2015/04/28/five-basics-you-should-definitely-know-about-the-stock-market/#146cbb0b7efa 
+
+F. https://www.quora.com/How-can-you-predict-the-rise-fall-in-the-stocks-price-in-day-trading
+
+G. https://www.thebalance.com/major-types-of-risk-for-stock-investors-3141315 
+
+Factors that determine stock prices:
+
+H. https://www.investopedia.com/articles/basics/04/100804.asp 
+
+I. https://www.getsmarteraboutmoney.ca/invest/investment-products/stocks/factors-that-can-affect-stock-prices/ 
+
+Factors that drive the ups and downs of american dollar:
+
+J. https://www.investopedia.com/articles/forex/09/factors-drive-american-dollar.asp 
+
+6 Factors that define exchange rates:
+
+K. https://www.investopedia.com/articles/basics/04/050704.asp 
+
+
+Live Charting
+Live: https://www.barchart.com/stocks/quotes/LIVE/interactive-chart 
+BSE: http://charting.bseindia.com/# 
+
+
+Long-term Bid-Ask Change (1 year)
+
+https://economictimes.indiatimes.com/marketstats/pageno-1,pid-313,sortby-forwardMonth,sortorder-desc.cms 
+Where to get .csv and raw data:
+
+BSE: 
+
+https://www.bseindia.com/markets/equity/EQReports/StockPrcHistori.aspx?expandable=7&flag=0
+
+NYSE:
+
+https://www.nyse.com/listings_directory/stock (main)
+
+https://www.nyse.com/data/transactions-statistics-data-library
+
+
+
+
+
+
