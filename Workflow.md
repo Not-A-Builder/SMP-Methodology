@@ -109,7 +109,7 @@ All this analysis, documented and properly analysed technically will not only he
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-### :warning:  6: Start LateX documentation.
+### :white_check_mark:  6: Start LateX documentation.
 
 # 10-05-18
 
