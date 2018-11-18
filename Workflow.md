@@ -7,7 +7,7 @@ Find the article writers and researchers for each of the models (the core librar
 
 # 02-11-18
 
-### :warning:  1. Carry out all the solutions from 31-10-18.
+### :white_check_mark:  1. Carry out all the solutions from 31-10-18.
 
 Finish the 6 procedures from 31-10-18 to completion on or before 10-11-18.  
 
@@ -109,7 +109,7 @@ All this analysis, documented and properly analysed technically will not only he
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-### :warning:  6: Start LateX documentation.
+### :white_check_mark:  6: Start LateX documentation.
 
 # 10-05-18
 
