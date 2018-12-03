@@ -1,6 +1,6 @@
 # 10-11-18
 
-### :to-do:  1. Start with the references for each documentation.
+### :to_do:  1. Start with the references for each documentation.
 
 Find out the actual papers behind each documentation.  
 Find the article writers and researchers for each of the models (the core libraries - scikit-learn, keras, fbprophet).  
