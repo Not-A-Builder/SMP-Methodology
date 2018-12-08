@@ -2,5 +2,5 @@
 SMP using AI / ML / Data Science Methodologies.  
 
 
-## Check Workflow.md for Workflow.
+## Refer to Workflow.md for Workflow.
 
