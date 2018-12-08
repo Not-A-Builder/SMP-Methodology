@@ -1,5 +1,5 @@
 # SMP-Code
-SMP using AI / ML / Data Science Methodologies.  
+SMP using different AI / ML / Data Science Methodologies.  
 
 
 ## Refer to Workflow.md for Workflow.
